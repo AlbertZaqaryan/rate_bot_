@@ -127,11 +127,3 @@ pytest
 Distributed under the MIT License.
 
 ---
-
-## ⭐ Contribution
-
-Feel free to open issues or submit pull requests!
-
----
-
-If you want, I can tailor this README further to match your bot’s actual commands and features — just tell me what commands you implemented!
